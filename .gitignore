@@ -1,0 +1,38 @@
+# Mac temporary files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Microsoft temporary files
+~*
+
+# Files created during Markdown build process
+site/
+build/
+
+# Logs and database files
+*.log
+*.sql
+*.sqlite
+
+# Compression packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so

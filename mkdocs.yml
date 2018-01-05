@@ -1,0 +1,16 @@
+site_name: Hacking History
+theme: material
+site_url: https://hacking-history.readthedocs.io
+site_description: Coursebook for DH1 Hacking History, at USF
+site_author: David J. Thomas
+copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
+repo_url: https://github.com/usf-portal/his4936-dh1-course-workbook
+repo_name: 'GitHub'
+pages:
+- Home: index.md
+- Setup: setup.md
+- Lessons: lessons.md
+- Files: files.md
+- Project: project.md
+- Glossary: glossary.md
+- Data-Driven Toolkit: toolkit.md
