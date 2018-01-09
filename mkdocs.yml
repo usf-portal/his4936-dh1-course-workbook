@@ -1,5 +1,5 @@
 site_name: Hacking History
-theme: material
+theme_dir: theme
 site_url: https://hacking-history.readthedocs.io
 site_description: Coursebook for DH1 Hacking History, at USF
 site_author: David J. Thomas
