@@ -69,7 +69,7 @@
     - Polls
     - Threads
     - Other Channels
-    - Notifications
+    - Other Features
 * Python Basics
     - Command-line / Script / Compiled code
     - Variables, Conditionals
