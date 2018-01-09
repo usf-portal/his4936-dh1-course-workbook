@@ -69,7 +69,7 @@
     - Polls
     - Threads
     - Other Channels
-    - Notifications
+    - Other Features
 * Python Basics
     - Command-line / Script / Compiled code
     - Variables, Conditionals
@@ -127,9 +127,7 @@
 **Assignments Due**
 
 * [Codecademy Python Course](https://www.codecademy.com/learn/python), Complete units 4 & 5 and submit a screenshot on Canvas as before.
-* Read and be prepared to discuss...
-    - Tara McPherson, ["Why Are the Digital Humanities So White? Thinking Histories of Race and Computation"](http://dhdebates.gc.cuny.edu/debates/text/29)
-    - Shawn Graham, ["Bless Your Little Cotton Socks: Reflecting on Carleton's Big Data"](https://electricarchaeology.ca/2014/04/25/bless-your-little-cotton-socks-reflecting-on-carletons-data-day/)
+* Webscraper
     - Install [Webscraper](https://webscraper.io), a free Chrome extension
     - Do the [Webscraper tutorials](http://webscraper.io/tutorials)
     - Bonus: Attempt to scrape a site, even if unsuccessful, and post about your results in the assignment-discussion Slack channel
@@ -201,7 +199,8 @@
 
 **Assignments Due**
 
-* Re-read Tara McPherson, ["Why Are the Digital Humanities So White? Thinking Histories of Race and Computation"](http://dhdebates.gc.cuny.edu/debates/text/29)
+* Read Tara McPherson, ["Why Are the Digital Humanities So White? Thinking Histories of Race and Computation"](http://dhdebates.gc.cuny.edu/debates/text/29)
+* Shawn Graham, ["Bless Your Little Cotton Socks: Reflecting on Carleton's Big Data"](https://electricarchaeology.ca/2014/04/25/bless-your-little-cotton-socks-reflecting-on-carletons-data-day/)
 * Graduate students only
     * Read Dave Parry, ["The Digital Humanities or Digital Humanism"](http://dhdebates.gc.cuny.edu/debates/text/24)
     * Read Elizabeth Losh, ["Hacktivism and the Humanities: Programming Protest"](http://dhdebates.gc.cuny.edu/debates/text/32)
@@ -352,7 +351,6 @@
 
 * Read textbook, chapters 6 & 7, pp. 195-264
 * Read the NY Times article about [Bill Gate's Big History Project](https://www.nytimes.com/2014/09/07/magazine/so-bill-gates-has-this-idea-for-a-history-class.html)
-* Find a source for your digital source analysis related to your group project and be prepared to discuss it in class
 * Start talking to group members in Slack
 
 **Class Setup**
