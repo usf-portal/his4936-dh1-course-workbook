@@ -6,6 +6,9 @@ livereload==2.5.0
 Markdown==2.6.7
 MarkupSafe==0.23
 mkdocs==0.16.0
+mkdocs-material==2.2.6
+Pygments==2.2.0
+pymdown-extensions==4.7
 PyYAML==3.12
 recommonmark==0.4.0
 six==1.10.0
