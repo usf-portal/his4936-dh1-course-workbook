@@ -9,6 +9,7 @@ You can install them all at once, or gradually over the course. Feel free to pla
 3. [Slack Team Messenger](#3-slack-team-messenger)
 4. [Tableau Visualization Platform](#4-tableau-visualization-platform)
 5. [Google OpenRefine Data Scrubber](#5-google-openrefine-data-scrubber)
+6. [Optional Atom Packages & Themes](#6-atom-packages-and-themes)
 
 ---
 
@@ -79,3 +80,35 @@ process.env.PATH = ['/usr/local/bin/', process.env.PATH].join(':')
 2. You have to manually move the application to the location where you want to install it.
 
 ---
+
+## 5 Atom Packages and Themes
+
+1. To customize Atom.io, open the file menu, if on Windows choose 'Settings', if on OSX (Mac) choose 'Preferences'
+    2. To **change** important settings, choose 'Core' or 'Editor'
+    3. To **alter** settings of installed items, choose either 'Packages' or 'Themes'
+3. To add new themes and packages, open your settings/preferences and click the 'Install' tab
+    1. Type the name of a package or search term
+    2. Choose 'Packages' or 'Themes', depending on your needs
+3. Recommended Theme
+    1. [atom-material-ui](https://atom.io/themes/atom-material-ui) (styles backgrounds, menus, and interface)
+    2. [atom-material-syntax](https://atom.io/themes/atom-material-syntax) (sets colors for syntax highlighting)
+4. Recommended Packages (* indicates highly recommended)
+    1. General
+        1. [file-icons](https://atom.io/packages/file-icons) (colors and styles icons based upon filetype in tree view)*
+        2. [highlight-selected](https://atom.io/packages/highlight-selected) (highlights all instances of a word when you double-click it)*
+        3. [ask-stack](https://atom.io/packages/ask-stack) (quickly search for answers to problems on StackOverflow.com)*
+        3. [autoclose-html](https://atom.io/packages/autoclose-html) (automatically adds closing tags when you write html)
+        4. [autocomplete-paths](https://atom.io/packages/autocomplete-paths) (automatically suggests locations when you type in paths)
+    2. Markdown
+        1. [language-markdown](https://atom.io/packages/language-markdown) (adds sytax highlighting and grammar support for Markdown)*
+        2. [markdown-preview](https://atom.io/packages/markdown-preview) (opens a rendered preview of your Markdown document)*
+        3. [markdown-pdf](https://atom.io/packages/markdown-pdf) (converts a Markdown file to a PDF on the fly)
+    3. Git/GitHub
+        1. [tree-view-git-status](https://atom.io/packages/tree-view-git-status) (shows current status of git repo in your tree view)*
+        2. [git-time-machine](https://atom.io/packages/git-time-machine) (visually see history of a file)
+        3. [git-plus](https://atom.io/packages/git-plus) (allows you to do git terminal commands inside Atom)
+    4. Python (only for those who want it)
+        1. Error Checking (all packages are required to work)
+            1. [linter](https://atom.io/packages/linter) (base package which enables error-checking in multiple langauges)
+            2. [linter-ui-default](https://atom.io/packages/linter-ui-default) (mid-level package which gives a user-interface for error-checking in multiple languages)
+            3. [linter-flake8](https://atom.io/packages/linter-flake8) (top-level package which implements the rules specific to Python)

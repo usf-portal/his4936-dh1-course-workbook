@@ -1,7 +1,6 @@
 # Hacking History: Introduction to Digital Humanities
 
-[![Documentation Status](https://readthedocs.org/projects/hacking-history/badge/?version=master)](http://hacking-history.readthedocs.io/en/master/?badge=master)
-
+[![ReadTheDocs Status](https://readthedocs.org/projects/hacking-history/badge/?version=master)](http://hacking-history.readthedocs.io) [![Travis-CI Status](https://travis-ci.org/usf-portal/his4936-dh1-course-workbook.svg?branch=master)](https://travis-ci.org/usf-portal/his4936-dh1-course-workbook)
 ---
 
 ## Digital Workbook for *HIS4936*@[University of South Florida](http://www.usf.edu/)
