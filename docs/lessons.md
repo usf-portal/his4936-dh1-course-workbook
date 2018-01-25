@@ -102,7 +102,8 @@
 **Lesson**
 
 * Python
-    * Lists/Dictionaries/Functions Comprehension Check
+    * Comprehension Check
+    * Lists/Dictionaries/Functions
     * Recursion, Factorials
     * Example in Action, Getting/Scraping Web Data
 * Git/Github / Atom
