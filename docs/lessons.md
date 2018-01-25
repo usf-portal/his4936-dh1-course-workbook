@@ -35,7 +35,6 @@
 * Basic Concepts
     - Binary to text: the purpose of programming languages
     - [Plaintext](https://en.wikipedia.org/wiki/Plaintext), [CSVs](https://en.wikipedia.org/wiki/Comma-separated_values)
-    - Terminal, navigation, variables, scripts
 
 ---
 
@@ -70,7 +69,9 @@
     - Threads
     - Other Channels
     - Other Features
+* Discussion: Why Code?
 * Python Basics
+    - Terminal, navigation, variables, scripts
     - Command-line / Script / Compiled code
     - Variables, Conditionals
     - List, Dictionaries
@@ -79,7 +80,7 @@
 
 ---
 
-### Week 3: GitHub
+### Week 3: Python & GitHub
 
 **Synopsis**
 
@@ -100,9 +101,9 @@
 
 **Lesson**
 
-* Why Code?
 * Python
-    * Lists/Dictionaries/Functions Comprehension Check
+    * Comprehension Check
+    * Lists/Dictionaries/Functions
     * Recursion, Factorials
     * Example in Action, Getting/Scraping Web Data
 * Git/Github / Atom
