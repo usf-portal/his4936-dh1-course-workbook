@@ -277,11 +277,14 @@
 **Lesson**
 
 * Revisit Questions: Is DH racist? Is DH anti-theory?
-* Make Groups
+* Talk About Groups
     * Expectations
     * Query for Specializations
     * Query for Project Ideas, Sites, Datasets, etc.
     * Group Together
+* Use GitHub to practice submitting the [source analysis](https://github.com/usf-portal/his4936-source-analysis)
+* Revisit working with OpenRefine
+* Revisit working with Tableau
 
 ---
 
