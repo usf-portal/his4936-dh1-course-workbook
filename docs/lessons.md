@@ -283,6 +283,7 @@
     * Query for Specializations
     * Query for Project Ideas, Sites, Datasets, etc.
     * Group Together
+* Make an example local/GitHub.com repo, use command line
 * Use GitHub to practice submitting the [source analysis](https://github.com/usf-portal/his4936-source-analysis)
 * Revisit working with OpenRefine
 * Revisit working with Tableau
