@@ -21,6 +21,8 @@ Final Projects from Earlier Versions of the Class
 
 ## Source analysis (Individual Assignment)
 
+[Click here for the course assignment repository](https://github.com/usf-portal/his4936-dh1-source-analysis)
+
 Locate a digital source that is related to you (or your group's) general research aims. I will allow a generous leeway in terms of how much the source relates to your final topic, so even a source that is indirectly related is acceptable for now. Remember, although researches start off with a topic of interest, they nearly always end up changing their questions.
 
 This exercise is designed to (a) get you thinking critically about an digital source and (b) what are the possibilities and problems of using that source to illuminate your possible research interests. If in the process of doing your source analysis you realize that your research interest might need significant reworking, that is okay. I expect everyone’s topics to change over the course of the semester. The aim of this exercise is to teach you to think about how to approach *any* digital source.
