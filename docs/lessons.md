@@ -231,11 +231,6 @@
     * Divergence in Computational Scholarship and Historiography
     * Radical Data, Can the Subaltern Program?
     * Bridging the Digital Divide
-* How A Full-Stack App Works
-    * Sever-side Database
-    * Sever-side Application
-    * Client-side Application
-    * APIs
 * Introduction to Tableau
     * Some Other Visualization Programs (we won't be focusing on)
         * [Raw](http://app.rawgraphs.io/) (General Data)
@@ -314,6 +309,12 @@
 
 **Lesson**
 
+* Submitting Your Souce Analysis, Pull Requests, and Social Coding
+* How A Full-Stack App Works
+    * Sever-side Database
+    * Sever-side Application
+    * Client-side Application
+    * APIs
 * Make Groups Continued
     * Expectations
     * Query for Specializations
