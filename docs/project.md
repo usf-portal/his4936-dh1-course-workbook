@@ -2,7 +2,28 @@
 
 ---
 
+As a part of a group (or alone, if you are *very* brave) you are going to...
+
+* Locate and 'scrape' an historical dataset
+* Clean and transform the information
+* Visualize the results
+* Generate initial interpretations
+* Contextualize your findings vz. historical scholarship
+* Publish your work in an online digital notbook
+
+We will discuss the project regularly over the course of the class.
+
+On the way to your final project, you have several assignents first, the Source Analysis and your Proposal and Bibliography. These assignments all build to your final project.
+
+---
+
+Check out the repository for the [final project template](https://github.com/usf-portal/his4936-dh1-project-template).
+
+---
+
 ## Past Project Examples
+
+To get some idea of what your final product might look like, you can check out examples of final projects from previous classes.
 
 Final Projects from Similar Versions of this Class
 
@@ -61,28 +82,28 @@ Next, I need a short proposal, telling me more about what each group intends to 
 
 ## Final Project Duties & Requirements
 
-### Project Manager
+### Specialization Roles
 
-    * Coordinates workflow between group members, assigns tasks
-    * Controls group GitHub project and branch merges
-    * Writes the 'introduction', and 'next steps' portions
-    * Ensures everything is working
+No one can master everything. As you progress, different group members should gravitate towards different skillsets. **You are not bound or defined by the following roles**, they are merely to help you split up the work and learn the skills specific to your needs.
 
-### Data Scientist
+There are four loosely defined 'roles', Project Manger, Data Scientist, Visualization Expert, and Scholarship Analyst. You can find more information about these roles, and a series of tutorials related to each skillset in the [Paths](paths.md) page.
 
-    * Scrape Data
-    * Scrub/Refine Data
-    * Clarify data categories for team members
-    * Make a 'transparency report', describing their process
+### Workflow
 
-### Visualization Expert
+The list below walks you through the process of how to get and make changes to the final project. Don't just send all your changes to your group leader at the last minute. As you complete various phases of your work, send your changes back to your project manager's develop branch.
 
-    * Performs exploratory visualizations for group members
-    * Produces final visual products
-    * Writes an 'initial findings' and 'problems encountered' reports
-
-### Digital Scholarship Expert
-
-    * Researches relevant digital works/projects
-    * Researches related historical scholarship
-    * Writes a 'digital methods and historical scholarship' section
+1. Setting Up...
+    1. The project manager will fork the [final project template repository](https://github.com/usf-portal/his4936-dh1-project-template).
+    2. Each group member will fork their project manager's template
+    3. Each group member will then make a sub-branch of the 'develop' branch named 'users/your-username' (without the quotes, and substituting your own username)
+2. Working on the Project
+    1. The project manager is the only one allowed to change the 'master' or 'develop' branches
+    2. As they go, each group member (even the project manager) will only make direct changes to their own 'users/your-username' branch
+    3. When you complete any phase of your work and you want to make it available to your group, send a pull request to the 'develop' of your project manager
+    4. At this point, the project manager can approve or deny changes to the workbook, or ask you for further revisions.
+    5. Once the pull request is approved, everyone can sync the changes into their own repositories.
+    6. When you want to change the 'master' branch, the project manager will launch a pull request from the 'develop' branch to the 'master' branch, and then approve it.
+3. Submitting and Reviewing
+    1. When you are all done and the master branch of the project manager looks like you want it to, the project manager will launch a pull request from their master branch to mine.
+    2. I will then make comments on the pull request itself, and close it (because I don't want it to change the original template) when I am done reviewing it.
+    3. You are done!

@@ -1,9 +1,25 @@
+# test in python
 language: python
+# enable sudo
+sudo: required
+# operating system to use
+os: linux
+# distribution to use
+dist: trusty
+# setting environment variables
+env:
+  - PACKAGE_VERSION=0.0.1
 python:
   - "2.7"
   - "3.6"
-  - "nightly"
+  - "3.6.2"
+# install dependencies
 install:
   pip install -r requirements.txt
+# launch the serve
 script:
   mkdocs build --verbose --clean --strict
+# never give email notifications
+notifications:
+  on_success: never
+  on_failure: never

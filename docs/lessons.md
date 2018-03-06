@@ -218,7 +218,7 @@
     * Texts like [Debates in DH](http://dhdebates.gc.cuny.edu)
     * Scholarly Publications like [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
     * Blogs like [this](https://electricarchaeology.ca/), [this](http://scottbot.net/), or [this](http://miriamposner.com/)
-    * On the main [Digital Humanities Slack Channel](http://digitalhumanities.slack.com)
+    * On the main [Digital Humanities Slack Channel](http://digitalhumanities.slack.com) ([sign up here](https://docs.google.com/forms/d/1u9CE8vV7ac8-OK2n8roiURvWoO0dpQuzNBWMOaaRXik/viewform))
     * Sites like the [Programming Historian](https://programminghistorian.org/)
     * Discussions on [Twitter](http://twitter.com)
 * An Introduction to Excel Pivot Tables
