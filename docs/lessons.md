@@ -22,6 +22,7 @@
 
 **Lesson**
 
+* Lecture: [Introduction to Digital Humanities](http://presentations.theport.us/slides/dh/intro.html)
 * Introduction
     * Naive Learning: The Dangers of Big Data
     * Bit Dungeon Exercise
@@ -63,7 +64,7 @@
 
 **Lesson**
 
-* Lecture: [Computational Development](https://theportus.github.io/presentations/presentations/hacking/computer_evolution.html#/)
+* Lecture: [Computational Development](http://presentations.theport.us/slides/dh/computer-history.html)
 * Slack Features:
     - Polls
     - Threads
@@ -122,7 +123,7 @@
 **Synopsis**
 
 * Use [Webscraper](https://webscraper.io) to get historical data
-* Discuss the origin of '[hacking](https://theportus.github.io/presentations/presentations/hacking/hacking.html#/)'
+* Discuss the origin of '[hacking](http://presentations.theport.us/slides/dh/history-of-hacking.html)'
 * Learn how to visualize data
 
 **Assignments Due**
@@ -148,7 +149,7 @@
     - [PHI Greek Epigraphy](http://epigraphy.packhum.org/)
     - [Perseus](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman)
     - Student Finds
-- Lecture: [History of Hacking](https://theportus.github.io/presentations/presentations/hacking/hacking.html#/)
+- Lecture: [History of Hacking](http://presentations.theport.us/slides/dh/history-of-hacking.html)
 * Visualizing History
     - What is Humanities Data?
     - Excel & Pivot Tables
@@ -349,6 +350,7 @@
 **Synopsis**
 
 * Discuss how to choose the 'right' visualizations
+* Discuss [network analysis]([Lecture: Network Analysis](http://presentations.theport.us/slides/dh/networks.html))
 * Ask questions about the digital source analysis and group proposal
 * Learn to fail well (no really)
 * See network analysis demonstration
@@ -375,7 +377,7 @@
     - Backup plans
     - Planning out steps: Assignments and Milestones in Github
     - Failing Well: The Role of Failure in Science
-* [Network Analysis Presentation](https://theportus.github.io/presentations/presentations/hacking/networks/networks.html)
+* [Lecture: Network Analysis](http://presentations.theport.us/slides/dh/networks.html)
 * Using Gephi
     * Manual Editing
     * Data Import, Node/Edge, Adjacency, Matrix, Co-Occurrences
@@ -425,6 +427,7 @@
 
 **Synopsis**
 
+* [Discuss Text Analysis](http://presentations.theport.us/slides/dh/texts.html)
 * Manage your project repository
 * Advanced [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) techniques
 * Other visualization tools
@@ -439,6 +442,7 @@
 
 **Lesson**
 
+* [Lecture: Unraveling Texts](http://presentations.theport.us/slides/dh/texts.html)
 * Group Project, Cloning Template and Branching Project Leader Repositories
 * Markdown Continued
     - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -482,7 +486,7 @@
 
 **Synopsis**
 
-* Discuss growth of big data
+* [Discuss growth of big data](http://presentations.theport.us/slides/dh/archive.html)
 * Convert your repository to a public website
 * Learn publication tools
 * Explore more advanced [tableau](https://tableau.com) techniques
@@ -498,7 +502,7 @@
 
 **Lesson**
 
-* [Power of the Archive: Constructing Digital Data](https://theportus.github.io/presentations/presentations/hacking/archive.html)
+* [Lecture: Power of the Archive](http://presentations.theport.us/slides/dh/archive.html)
 * Setting Up
     * Group Leaders, sign up for an account at [readthedocs](https://readthedocs.org)
 * Net Neutrality
